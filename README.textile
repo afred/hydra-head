@@ -81,6 +81,9 @@ Run the hydra-head generator
 
 <pre>rails g hydra:head -f</pre>
 
+
+__NOTE: to see what these do, run @rails g blacklight --help@ and @rails g hydra:head --help@__
+
 Run the database migrations
 
 <pre>
